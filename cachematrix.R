@@ -1,10 +1,12 @@
 ##################################################################
-# PLEASE NOTE:  1) THIS SCRIPT ASSUMES THAT A MATRIX (PASSED AS A
-#               PARAMETER) WILL ALSO HAVE AN INVERSE.
-#               2) Although some examples have been provided, it
-#               is recommended that you view accompanying file
-#               "MatrixSolutionExamples.md" for additional usage
-#               examples.
+# PLEASE NOTE:  
+#       1) THIS SCRIPT ASSUMES THAT A MATRIX (PASSED AS A
+#       PARAMETER) WILL ALSO HAVE AN INVERSE.
+#
+#       2) Although some examples have been provided below, it
+#       is recommended that you view the accompanying file
+#       "MatrixSolutionExamples.md" IF you would like to
+#       look at additional usage examples.
 ##################################################################
 
 ##################################################################
